@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 import { getTranslation, type Language } from "../i18n";
 
-const githubUrl = "https://github.com/oaojfr/Project-NOW";
+const githubUrl = "https://github.com/lehlud/Project-NOW";
 
 declare const __APP_VERSION__: string;
 
