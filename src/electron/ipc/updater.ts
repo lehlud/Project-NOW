@@ -9,7 +9,7 @@ try {
     console.warn("[Updater] electron-updater not available:", error);
 }
 
-const GITHUB_REPO = "oaojfr/Project-NOW";
+const GITHUB_REPO = "lehlud/Project-NOW";
 const GITHUB_RELEASES_URL = `https://api.github.com/repos/${GITHUB_REPO}/releases/latest`;
 const RELEASES_PAGE_URL = `https://github.com/${GITHUB_REPO}/releases`;
 
