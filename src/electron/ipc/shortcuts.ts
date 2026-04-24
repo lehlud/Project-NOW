@@ -495,7 +495,7 @@ async function createMacOSShortcut(info: ShortcutInfo): Promise<{ success: boole
     <key>CFBundleExecutable</key>
     <string>${appName}</string>
     <key>CFBundleIdentifier</key>
-    <string>net.oaojfr.projectnow.game.${info.gameId}</string>
+    <string>net.lehlud.projectnow.game.${info.gameId}</string>
     <key>CFBundleName</key>
     <string>${info.gameName}</string>
     <key>CFBundlePackageType</key>

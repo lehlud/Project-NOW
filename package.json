@@ -18,7 +18,7 @@
     },
     "keywords": [],
     "author": {
-        "name": "oaojfr"
+        "name": "lehlud"
     },
     "contributors": [
         {
@@ -79,7 +79,7 @@
         "steamgriddb": "^2.2.1"
     },
     "build": {
-        "appId": "net.oaojfr.projectnow",
+        "appId": "net.lehlud.projectnow",
         "productName": "Project NOW",
         "files": [
             "node_modules/**/*",
@@ -137,7 +137,7 @@
         "publish": [
             {
                 "provider": "github",
-                "owner": "oaojfr",
+                "owner": "lehlud",
                 "repo": "Project-NOW"
             }
         ]
